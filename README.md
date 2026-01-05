@@ -190,3 +190,27 @@ For questions about these materials, please contact your course instructor.
 **Created by:** Manus AI  
 **Date:** January 04, 2026  
 **Version:** 1.0
+
+## 🌐 Interactive Website
+
+**NEW:** An interactive web application for visualizing the distillation protocols!
+
+**Live Demo:** https://3000-isjg55ap8jksw7e9otzci-fda10d60.us2.manus.computer
+
+### Features
+- **Holographic UI Design** with glassmorphism effects and purple gradient theme
+- **Step-by-step Circuit Animations** for both BBPSSW and 15-to-1 protocols
+- **Real-time Parameter Controls** to adjust noise levels and see effects
+- **Theoretical Calculations** showing error suppression formulas
+- **Educational Explanations** integrated with interactive visualizations
+
+### Running Locally
+
+```bash
+cd quantum-distillation-viz
+pnpm install
+pnpm dev
+```
+
+The website provides an engaging way to understand the protocols before implementing them in code!
+
