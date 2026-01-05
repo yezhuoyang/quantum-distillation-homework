@@ -1,0 +1,6 @@
+qiskit>=1.0.0
+qiskit-aer>=0.13.0
+qiskit-ibm-runtime>=0.18.0
+qiskit-experiments>=0.6.0
+numpy>=1.24.0
+matplotlib>=3.7.0
