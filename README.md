@@ -214,3 +214,20 @@ pnpm dev
 
 The website provides an engaging way to understand the protocols before implementing them in code!
 
+
+## 🔗 Website Repository
+
+The interactive visualizer has its own repository for easy deployment:
+
+**Repository:** https://github.com/yezhuoyang/quantum-distillation-viz
+
+### Quick Deploy to Vercel
+
+1. Visit [vercel.com](https://vercel.com) and sign in with GitHub
+2. Click "Add New..." → "Project"
+3. Import `yezhuoyang/quantum-distillation-viz`
+4. Click "Deploy" (settings are pre-configured)
+5. Your site will be live in ~2 minutes!
+
+See [DEPLOYMENT.md](https://github.com/yezhuoyang/quantum-distillation-viz/blob/main/DEPLOYMENT.md) for detailed instructions and other hosting options.
+

@@ -1,0 +1,9 @@
+Website Repository: https://github.com/yezhuoyang/quantum-distillation-viz
+
+To deploy the website:
+1. Visit https://vercel.com and sign in with GitHub
+2. Import the quantum-distillation-viz repository
+3. Deploy with default settings (vercel.json is pre-configured)
+4. Your site will be live in ~2 minutes!
+
+See DEPLOYMENT.md in the website repository for detailed instructions.
